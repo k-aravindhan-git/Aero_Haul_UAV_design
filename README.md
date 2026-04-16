@@ -47,5 +47,5 @@ The aerodynamic performance was validated using **SimScale** with the following 
 * **Interactive 3D Model:** [View the complete wing assembly on Autodesk A360](https://a360.co/4etRgx4)
 
 ---
-**Author:** K Aravindhan 
-**Institution:** Indian Institute of Technology Guwahati 
+**Author:** K Aravindhan. 
+**Institution:** Indian Institute of Technology Guwahati. 
